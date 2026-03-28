@@ -51,4 +51,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2652-sum-multiples](https://github.com/SMDANAS02/java-problems/tree/main/2652-sum-multiples/) | Easy |
+| [3099-harshad-number](https://github.com/SMDANAS02/java-problems/tree/main/3099-harshad-number/) | Easy |
 <!---LeetCode Topics End-->
