@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/SMDANAS02/java-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0724-find-pivot-index](https://github.com/SMDANAS02/java-problems/tree/master/0724-find-pivot-index) |
+| [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2906-construct-product-matrix](https://github.com/SMDANAS02/java-problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/SMDANAS02/java-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Prefix Sum
@@ -28,10 +29,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/SMDANAS02/java-problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2351-first-letter-to-appear-twice](https://github.com/SMDANAS02/java-problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -40,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3546-equal-sum-grid-partition-i](https://github.com/SMDANAS02/java-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
 <!---LeetCode Topics End-->
