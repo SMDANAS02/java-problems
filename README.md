@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SMDANAS02/java-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [2427-number-of-common-factors](https://github.com/SMDANAS02/java-problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2652-sum-multiples](https://github.com/SMDANAS02/java-problems/tree/main/2652-sum-multiples/) | Easy |
 | [3099-harshad-number](https://github.com/SMDANAS02/java-problems/tree/main/3099-harshad-number/) | Easy |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1652-defuse-the-bomb](https://github.com/SMDANAS02/java-problems/tree/main/1652-defuse-the-bomb/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SMDANAS02/java-problems/tree/main/0070-climbing-stairs/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0070-climbing-stairs](https://github.com/SMDANAS02/java-problems/tree/main/0070-climbing-stairs/) | Easy |
 <!---LeetCode Topics End-->
