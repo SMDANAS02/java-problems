@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/SMDANAS02/java-problems/tree/main/0137-single-number-ii/) | Medium |
+| [0704-binary-search](https://github.com/SMDANAS02/java-problems/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/SMDANAS02/java-problems/tree/master/0724-find-pivot-index) |
 | [1051-height-checker](https://github.com/SMDANAS02/java-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/SMDANAS02/java-problems/tree/main/1122-relative-sort-array/) | Easy |
@@ -85,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/SMDANAS02/java-problems/tree/main/0070-climbing-stairs/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/SMDANAS02/java-problems/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
