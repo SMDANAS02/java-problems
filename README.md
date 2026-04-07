@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SMDANAS02/java-problems/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/SMDANAS02/java-problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SMDANAS02/java-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SMDANAS02/java-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1051-height-checker](https://github.com/SMDANAS02/java-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/SMDANAS02/java-problems/tree/main/1122-relative-sort-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SMDANAS02/java-problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SMDANAS02/java-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0704-binary-search](https://github.com/SMDANAS02/java-problems/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SMDANAS02/java-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/SMDANAS02/java-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
