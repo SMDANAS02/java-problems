@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/SMDANAS02/java-problems/tree/main/0383-ransom-note/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/SMDANAS02/java-problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/SMDANAS02/java-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SMDANAS02/java-problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
 ## Counting
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0069-sqrtx](https://github.com/SMDANAS02/java-problems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/SMDANAS02/java-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/SMDANAS02/java-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2427-number-of-common-factors](https://github.com/SMDANAS02/java-problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2652-sum-multiples](https://github.com/SMDANAS02/java-problems/tree/main/2652-sum-multiples/) | Easy |
 | [3099-harshad-number](https://github.com/SMDANAS02/java-problems/tree/main/3099-harshad-number/) | Easy |
@@ -111,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/SMDANAS02/java-problems/tree/main/0657-robot-return-to-origin/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1903-largest-odd-number-in-string](https://github.com/SMDANAS02/java-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 <!---LeetCode Topics End-->
