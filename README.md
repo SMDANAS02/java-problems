@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1652-defuse-the-bomb](https://github.com/SMDANAS02/java-problems/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SMDANAS02/java-problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2906-construct-product-matrix](https://github.com/SMDANAS02/java-problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/SMDANAS02/java-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Prefix Sum
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/SMDANAS02/java-problems/tree/main/0137-single-number-ii/) | Medium |
 | [2351-first-letter-to-appear-twice](https://github.com/SMDANAS02/java-problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/SMDANAS02/java-problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SMDANAS02/java-problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
+| [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
