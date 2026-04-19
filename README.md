@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SMDANAS02/java-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SMDANAS02/java-problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/SMDANAS02/java-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/SMDANAS02/java-problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2427-number-of-common-factors](https://github.com/SMDANAS02/java-problems/tree/main/2427-number-of-common-factors/) | Easy |
 | [2652-sum-multiples](https://github.com/SMDANAS02/java-problems/tree/main/2652-sum-multiples/) | Easy |
 | [3099-harshad-number](https://github.com/SMDANAS02/java-problems/tree/main/3099-harshad-number/) | Easy |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/SMDANAS02/java-problems/tree/main/0657-robot-return-to-origin/) | Easy |
+| [2169-count-operations-to-obtain-zero](https://github.com/SMDANAS02/java-problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
