@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1394-find-lucky-integer-in-an-array](https://github.com/SMDANAS02/java-problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/SMDANAS02/java-problems/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SMDANAS02/java-problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SMDANAS02/java-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2906-construct-product-matrix](https://github.com/SMDANAS02/java-problems/tree/main/2906-construct-product-matrix/) | Medium |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [1051-height-checker](https://github.com/SMDANAS02/java-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/SMDANAS02/java-problems/tree/main/1122-relative-sort-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SMDANAS02/java-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/SMDANAS02/java-problems/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SMDANAS02/java-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/SMDANAS02/java-problems/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/SMDANAS02/java-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
