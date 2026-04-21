@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/SMDANAS02/java-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0561-array-partition](https://github.com/SMDANAS02/java-problems/tree/main/0561-array-partition/) | Easy |
 | [0704-binary-search](https://github.com/SMDANAS02/java-problems/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/SMDANAS02/java-problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/SMDANAS02/java-problems/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0561-array-partition](https://github.com/SMDANAS02/java-problems/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/SMDANAS02/java-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/SMDANAS02/java-problems/tree/main/1122-relative-sort-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SMDANAS02/java-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/SMDANAS02/java-problems/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/SMDANAS02/java-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/SMDANAS02/java-problems/tree/main/1122-relative-sort-array/) | Easy |
 ## Sliding Window
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0561-array-partition](https://github.com/SMDANAS02/java-problems/tree/main/0561-array-partition/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/SMDANAS02/java-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SMDANAS02/java-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 ## Two Pointers
