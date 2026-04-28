@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/SMDANAS02/java-problems/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2833-furthest-point-from-origin](https://github.com/SMDANAS02/java-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SMDANAS02/java-problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0657-robot-return-to-origin](https://github.com/SMDANAS02/java-problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/SMDANAS02/java-problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SMDANAS02/java-problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,4 +150,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SMDANAS02/java-problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
