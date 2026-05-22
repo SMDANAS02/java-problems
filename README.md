@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/SMDANAS02/java-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3151-special-array-i](https://github.com/SMDANAS02/java-problems/tree/main/3151-special-array-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/SMDANAS02/java-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/SMDANAS02/java-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3174-clear-digits](https://github.com/SMDANAS02/java-problems/tree/main/3174-clear-digits/) | Easy |
 | [3271-hash-divided-string](https://github.com/SMDANAS02/java-problems/tree/main/3271-hash-divided-string/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SMDANAS02/java-problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/SMDANAS02/java-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
