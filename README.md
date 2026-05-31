@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SMDANAS02/java-problems/tree/main/0035-search-insert-position/) | Easy |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SMDANAS02/java-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0137-single-number-ii](https://github.com/SMDANAS02/java-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/SMDANAS02/java-problems/tree/main/0162-find-peak-element/) | Medium |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SMDANAS02/java-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/SMDANAS02/java-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SMDANAS02/java-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
