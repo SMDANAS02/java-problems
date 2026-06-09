@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2974-minimum-number-game](https://github.com/SMDANAS02/java-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3151-special-array-i](https://github.com/SMDANAS02/java-problems/tree/main/3151-special-array-i/) | Easy |
 | [3546-equal-sum-grid-partition-i](https://github.com/SMDANAS02/java-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
+| [3689-maximum-total-subarray-value-i](https://github.com/SMDANAS02/java-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3895-count-digit-appearances](https://github.com/SMDANAS02/java-problems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3925-concatenate-array-with-reverse](https://github.com/SMDANAS02/java-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Prefix Sum
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SMDANAS02/java-problems/tree/main/0561-array-partition/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/SMDANAS02/java-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SMDANAS02/java-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
+| [3689-maximum-total-subarray-value-i](https://github.com/SMDANAS02/java-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
