@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/SMDANAS02/java-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/SMDANAS02/java-problems/tree/main/1122-relative-sort-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SMDANAS02/java-problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/SMDANAS02/java-problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/SMDANAS02/java-problems/tree/main/1652-defuse-the-bomb/) | Easy |
 | [1848-minimum-distance-to-the-target-element](https://github.com/SMDANAS02/java-problems/tree/main/1848-minimum-distance-to-the-target-element/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SMDANAS02/java-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/SMDANAS02/java-problems/tree/main/0383-ransom-note/) | Easy |
 | [1122-relative-sort-array](https://github.com/SMDANAS02/java-problems/tree/main/1122-relative-sort-array/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SMDANAS02/java-problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/SMDANAS02/java-problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SMDANAS02/java-problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/SMDANAS02/java-problems/tree/main/0383-ransom-note/) | Easy |
 | [1394-find-lucky-integer-in-an-array](https://github.com/SMDANAS02/java-problems/tree/main/1394-find-lucky-integer-in-an-array/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/SMDANAS02/java-problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SMDANAS02/java-problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2833-furthest-point-from-origin](https://github.com/SMDANAS02/java-problems/tree/main/2833-furthest-point-from-origin/) | Easy |
 ## Enumeration
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/SMDANAS02/java-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SMDANAS02/java-problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SMDANAS02/java-problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/SMDANAS02/java-problems/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/SMDANAS02/java-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2169-count-operations-to-obtain-zero](https://github.com/SMDANAS02/java-problems/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2427-number-of-common-factors](https://github.com/SMDANAS02/java-problems/tree/main/2427-number-of-common-factors/) | Easy |
