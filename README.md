@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SMDANAS02/java-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SMDANAS02/java-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SMDANAS02/java-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SMDANAS02/java-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0561-array-partition](https://github.com/SMDANAS02/java-problems/tree/main/0561-array-partition/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/SMDANAS02/java-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SMDANAS02/java-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/SMDANAS02/java-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SMDANAS02/java-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/SMDANAS02/java-problems/tree/main/0905-sort-array-by-parity/) | Easy |
