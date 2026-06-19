@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/SMDANAS02/java-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SMDANAS02/java-problems/tree/main/0035-search-insert-position/) | Easy |
+| [0041-first-missing-positive](https://github.com/SMDANAS02/java-problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SMDANAS02/java-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0137-single-number-ii](https://github.com/SMDANAS02/java-problems/tree/main/0137-single-number-ii/) | Medium |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/SMDANAS02/java-problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0383-ransom-note](https://github.com/SMDANAS02/java-problems/tree/main/0383-ransom-note/) | Easy |
 | [0645-set-mismatch](https://github.com/SMDANAS02/java-problems/tree/main/0645-set-mismatch/) | Easy |
