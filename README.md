@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2161-partition-array-according-to-given-pivot](https://github.com/SMDANAS02/java-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/SMDANAS02/java-problems/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SMDANAS02/java-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [2906-construct-product-matrix](https://github.com/SMDANAS02/java-problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2974-minimum-number-game](https://github.com/SMDANAS02/java-problems/tree/main/2974-minimum-number-game/) | Easy |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/SMDANAS02/java-problems/tree/main/1748-sum-of-unique-elements/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SMDANAS02/java-problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SMDANAS02/java-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SMDANAS02/java-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## String
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/SMDANAS02/java-problems/tree/main/1122-relative-sort-array/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SMDANAS02/java-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SMDANAS02/java-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/SMDANAS02/java-problems/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/SMDANAS02/java-problems/tree/main/2974-minimum-number-game/) | Easy |
 ## Math
@@ -199,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/SMDANAS02/java-problems/tree/main/0905-sort-array-by-parity/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SMDANAS02/java-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SMDANAS02/java-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SMDANAS02/java-problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
