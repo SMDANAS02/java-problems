@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/SMDANAS02/java-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0561-array-partition](https://github.com/SMDANAS02/java-problems/tree/main/0561-array-partition/) | Easy |
+| [0643-maximum-average-subarray-i](https://github.com/SMDANAS02/java-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/SMDANAS02/java-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/SMDANAS02/java-problems/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/SMDANAS02/java-problems/tree/master/0724-find-pivot-index) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/SMDANAS02/java-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/SMDANAS02/java-problems/tree/main/1652-defuse-the-bomb/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
