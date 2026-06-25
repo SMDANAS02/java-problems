@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SMDANAS02/java-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/SMDANAS02/java-problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [2906-construct-product-matrix](https://github.com/SMDANAS02/java-problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2974-minimum-number-game](https://github.com/SMDANAS02/java-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3151-special-array-i](https://github.com/SMDANAS02/java-problems/tree/main/3151-special-array-i/) | Easy |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SMDANAS02/java-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/SMDANAS02/java-problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3120-count-the-number-of-special-characters-i](https://github.com/SMDANAS02/java-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SMDANAS02/java-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/SMDANAS02/java-problems/tree/main/1652-defuse-the-bomb/) | Easy |
+| [2799-count-complete-subarrays-in-an-array](https://github.com/SMDANAS02/java-problems/tree/main/2799-count-complete-subarrays-in-an-array/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SMDANAS02/java-problems/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
