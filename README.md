@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2906-construct-product-matrix](https://github.com/SMDANAS02/java-problems/tree/main/2906-construct-product-matrix/) | Medium |
 | [2974-minimum-number-game](https://github.com/SMDANAS02/java-problems/tree/main/2974-minimum-number-game/) | Easy |
 | [3151-special-array-i](https://github.com/SMDANAS02/java-problems/tree/main/3151-special-array-i/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SMDANAS02/java-problems/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/SMDANAS02/java-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 | [3689-maximum-total-subarray-value-i](https://github.com/SMDANAS02/java-problems/tree/main/3689-maximum-total-subarray-value-i/) | Medium |
 | [3895-count-digit-appearances](https://github.com/SMDANAS02/java-problems/tree/main/3895-count-digit-appearances/) | Medium |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0724-find-pivot-index](https://github.com/SMDANAS02/java-problems/tree/master/0724-find-pivot-index) |
 | [2906-construct-product-matrix](https://github.com/SMDANAS02/java-problems/tree/main/2906-construct-product-matrix/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SMDANAS02/java-problems/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3546-equal-sum-grid-partition-i](https://github.com/SMDANAS02/java-problems/tree/main/3546-equal-sum-grid-partition-i/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/SMDANAS02/java-problems/tree/main/0645-set-mismatch/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SMDANAS02/java-problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/2657-find-the-prefix-common-array-of-two-arrays/) | Medium |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SMDANAS02/java-problems/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/SMDANAS02/java-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1652-defuse-the-bomb](https://github.com/SMDANAS02/java-problems/tree/main/1652-defuse-the-bomb/) | Easy |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SMDANAS02/java-problems/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -220,4 +224,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2974-minimum-number-game](https://github.com/SMDANAS02/java-problems/tree/main/2974-minimum-number-game/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/SMDANAS02/java-problems/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 <!---LeetCode Topics End-->
