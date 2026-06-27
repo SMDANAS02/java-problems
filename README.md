@@ -213,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SMDANAS02/java-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/SMDANAS02/java-problems/tree/main/0905-sort-array-by-parity/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SMDANAS02/java-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SMDANAS02/java-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SMDANAS02/java-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SMDANAS02/java-problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/SMDANAS02/java-problems/tree/main/0206-reverse-linked-list/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SMDANAS02/java-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/SMDANAS02/java-problems/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
