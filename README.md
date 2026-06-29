@@ -252,4 +252,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0595-big-countries](https://github.com/SMDANAS02/java-problems/tree/main/0595-big-countries/) | Easy |
+| [1693-daily-leads-and-partners](https://github.com/SMDANAS02/java-problems/tree/main/1693-daily-leads-and-partners/) | Easy |
 <!---LeetCode Topics End-->
