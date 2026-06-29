@@ -248,4 +248,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/SMDANAS02/java-problems/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0206-reverse-linked-list](https://github.com/SMDANAS02/java-problems/tree/main/0206-reverse-linked-list/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0595-big-countries](https://github.com/SMDANAS02/java-problems/tree/main/0595-big-countries/) | Easy |
 <!---LeetCode Topics End-->
