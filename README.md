@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0383-ransom-note](https://github.com/SMDANAS02/java-problems/tree/main/0383-ransom-note/) | Easy |
+| [0482-license-key-formatting](https://github.com/SMDANAS02/java-problems/tree/main/0482-license-key-formatting/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/SMDANAS02/java-problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/SMDANAS02/java-problems/tree/main/0796-rotate-string/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/SMDANAS02/java-problems/tree/main/1678-goal-parser-interpretation/) | Easy |
