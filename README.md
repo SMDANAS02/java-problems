@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SMDANAS02/java-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/SMDANAS02/java-problems/tree/main/0041-first-missing-positive/) | Hard |
+| [0053-maximum-subarray](https://github.com/SMDANAS02/java-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/SMDANAS02/java-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SMDANAS02/java-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0088-merge-sorted-array/) | Easy |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SMDANAS02/java-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/SMDANAS02/java-problems/tree/main/0070-climbing-stairs/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/SMDANAS02/java-problems/tree/main/0595-big-countries/) | Easy |
 | [0610-triangle-judgement](https://github.com/SMDANAS02/java-problems/tree/main/0610-triangle-judgement/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/SMDANAS02/java-problems/tree/main/1693-daily-leads-and-partners/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0053-maximum-subarray](https://github.com/SMDANAS02/java-problems/tree/main/0053-maximum-subarray/) | Medium |
 <!---LeetCode Topics End-->
