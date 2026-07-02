@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0595-big-countries](https://github.com/SMDANAS02/java-problems/tree/main/0595-big-countries/) | Easy |
 | [0610-triangle-judgement](https://github.com/SMDANAS02/java-problems/tree/main/0610-triangle-judgement/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/SMDANAS02/java-problems/tree/main/1693-daily-leads-and-partners/) | Easy |
+| [1741-find-total-time-spent-by-each-employee](https://github.com/SMDANAS02/java-problems/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
