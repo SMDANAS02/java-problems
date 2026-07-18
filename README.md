@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0006-zigzag-conversion](https://github.com/SMDANAS02/java-problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0383-ransom-note](https://github.com/SMDANAS02/java-problems/tree/main/0383-ransom-note/) | Easy |
 | [0482-license-key-formatting](https://github.com/SMDANAS02/java-problems/tree/main/0482-license-key-formatting/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/SMDANAS02/java-problems/tree/main/0657-robot-return-to-origin/) | Easy |
