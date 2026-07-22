@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/SMDANAS02/java-problems/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/SMDANAS02/java-problems/tree/main/0283-move-zeroes/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/SMDANAS02/java-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/SMDANAS02/java-problems/tree/main/0561-array-partition/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/SMDANAS02/java-problems/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/SMDANAS02/java-problems/tree/main/0645-set-mismatch/) | Easy |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0274-h-index](https://github.com/SMDANAS02/java-problems/tree/main/0274-h-index/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
+| [0414-third-maximum-number](https://github.com/SMDANAS02/java-problems/tree/main/0414-third-maximum-number/) | Easy |
 | [0561-array-partition](https://github.com/SMDANAS02/java-problems/tree/main/0561-array-partition/) | Easy |
 | [0645-set-mismatch](https://github.com/SMDANAS02/java-problems/tree/main/0645-set-mismatch/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/SMDANAS02/java-problems/tree/main/0905-sort-array-by-parity/) | Easy |
