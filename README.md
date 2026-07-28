@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/SMDANAS02/java-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-clear-digits](https://github.com/SMDANAS02/java-problems/tree/main/3174-clear-digits/) | Easy |
 | [3271-hash-divided-string](https://github.com/SMDANAS02/java-problems/tree/main/3271-hash-divided-string/) | Medium |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SMDANAS02/java-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SMDANAS02/java-problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/SMDANAS02/java-problems/tree/main/2441-largest-positive-integer-that-exists-with-its-negative/) | Easy |
 | [2785-sort-vowels-in-a-string](https://github.com/SMDANAS02/java-problems/tree/main/2785-sort-vowels-in-a-string/) | Medium |
 | [2974-minimum-number-game](https://github.com/SMDANAS02/java-problems/tree/main/2974-minimum-number-game/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SMDANAS02/java-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -168,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/SMDANAS02/java-problems/tree/main/0561-array-partition/) | Easy |
 | [1051-height-checker](https://github.com/SMDANAS02/java-problems/tree/main/1051-height-checker/) | Easy |
 | [1122-relative-sort-array](https://github.com/SMDANAS02/java-problems/tree/main/1122-relative-sort-array/) | Easy |
+| [3517-smallest-palindromic-rearrangement-i](https://github.com/SMDANAS02/java-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
