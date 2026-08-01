@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/SMDANAS02/java-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/SMDANAS02/java-problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0338-counting-bits](https://github.com/SMDANAS02/java-problems/tree/main/0338-counting-bits/) | Easy |
 | [0401-binary-watch](https://github.com/SMDANAS02/java-problems/tree/main/0401-binary-watch/) | Easy |
 | [0645-set-mismatch](https://github.com/SMDANAS02/java-problems/tree/main/0645-set-mismatch/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SMDANAS02/java-problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/SMDANAS02/java-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/SMDANAS02/java-problems/tree/main/0070-climbing-stairs/) | Easy |
+| [0338-counting-bits](https://github.com/SMDANAS02/java-problems/tree/main/0338-counting-bits/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
