@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SMDANAS02/java-problems/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/SMDANAS02/java-problems/tree/main/0011-container-with-most-water/) | Medium |
 | [0027-remove-element](https://github.com/SMDANAS02/java-problems/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/SMDANAS02/java-problems/tree/main/0001-two-sum/) | Easy |
 | [0041-first-missing-positive](https://github.com/SMDANAS02/java-problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/SMDANAS02/java-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/SMDANAS02/java-problems/tree/main/0242-valid-anagram/) | Easy |
