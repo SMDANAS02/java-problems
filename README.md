@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SMDANAS02/java-problems/tree/main/0001-two-sum/) | Easy |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SMDANAS02/java-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/SMDANAS02/java-problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/SMDANAS02/java-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0242-valid-anagram](https://github.com/SMDANAS02/java-problems/tree/main/0242-valid-anagram/) | Easy |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/SMDANAS02/java-problems/tree/main/0006-zigzag-conversion/) | Medium |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SMDANAS02/java-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0242-valid-anagram](https://github.com/SMDANAS02/java-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/SMDANAS02/java-problems/tree/main/0383-ransom-note/) | Easy |
 | [0482-license-key-formatting](https://github.com/SMDANAS02/java-problems/tree/main/0482-license-key-formatting/) | Easy |
@@ -311,5 +313,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/SMDANAS02/java-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0401-binary-watch](https://github.com/SMDANAS02/java-problems/tree/main/0401-binary-watch/) | Easy |
 <!---LeetCode Topics End-->
