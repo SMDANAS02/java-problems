@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SMDANAS02/java-problems/tree/main/0162-find-peak-element/) | Medium |
 | [0274-h-index](https://github.com/SMDANAS02/java-problems/tree/main/0274-h-index/) | Medium |
 | [0283-move-zeroes](https://github.com/SMDANAS02/java-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SMDANAS02/java-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0324-wiggle-sort-ii](https://github.com/SMDANAS02/java-problems/tree/main/0324-wiggle-sort-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0414-third-maximum-number](https://github.com/SMDANAS02/java-problems/tree/main/0414-third-maximum-number/) | Easy |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0137-single-number-ii](https://github.com/SMDANAS02/java-problems/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/SMDANAS02/java-problems/tree/main/0191-number-of-1-bits/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SMDANAS02/java-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0338-counting-bits](https://github.com/SMDANAS02/java-problems/tree/main/0338-counting-bits/) | Easy |
 | [0401-binary-watch](https://github.com/SMDANAS02/java-problems/tree/main/0401-binary-watch/) | Easy |
 | [0461-hamming-distance](https://github.com/SMDANAS02/java-problems/tree/main/0461-hamming-distance/) | Easy |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/SMDANAS02/java-problems/tree/main/0069-sqrtx/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/SMDANAS02/java-problems/tree/main/0162-find-peak-element/) | Medium |
+| [0287-find-the-duplicate-number](https://github.com/SMDANAS02/java-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SMDANAS02/java-problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0704-binary-search](https://github.com/SMDANAS02/java-problems/tree/main/0704-binary-search/) | Easy |
@@ -251,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/SMDANAS02/java-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/SMDANAS02/java-problems/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/SMDANAS02/java-problems/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SMDANAS02/java-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/SMDANAS02/java-problems/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/SMDANAS02/java-problems/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0905-sort-array-by-parity](https://github.com/SMDANAS02/java-problems/tree/main/0905-sort-array-by-parity/) | Easy |
@@ -325,4 +329,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/SMDANAS02/java-problems/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/SMDANAS02/java-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/SMDANAS02/java-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
