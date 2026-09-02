@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0482-license-key-formatting](https://github.com/SMDANAS02/java-problems/tree/main/0482-license-key-formatting/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/SMDANAS02/java-problems/tree/main/0657-robot-return-to-origin/) | Easy |
 | [0796-rotate-string](https://github.com/SMDANAS02/java-problems/tree/main/0796-rotate-string/) | Easy |
+| [1544-make-the-string-great](https://github.com/SMDANAS02/java-problems/tree/main/1544-make-the-string-great/) | Easy |
 | [1678-goal-parser-interpretation](https://github.com/SMDANAS02/java-problems/tree/main/1678-goal-parser-interpretation/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/SMDANAS02/java-problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/SMDANAS02/java-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
@@ -269,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1544-make-the-string-great](https://github.com/SMDANAS02/java-problems/tree/main/1544-make-the-string-great/) | Easy |
 | [3174-clear-digits](https://github.com/SMDANAS02/java-problems/tree/main/3174-clear-digits/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
