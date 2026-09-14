@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/SMDANAS02/java-problems/tree/main/0202-happy-number/) | Easy |
 | [0367-valid-perfect-square](https://github.com/SMDANAS02/java-problems/tree/main/0367-valid-perfect-square/) | Easy |
 | [0441-arranging-coins](https://github.com/SMDANAS02/java-problems/tree/main/0441-arranging-coins/) | Easy |
+| [0836-rectangle-overlap](https://github.com/SMDANAS02/java-problems/tree/main/0836-rectangle-overlap/) | Easy |
 | [0989-add-to-array-form-of-integer](https://github.com/SMDANAS02/java-problems/tree/main/0989-add-to-array-form-of-integer/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/SMDANAS02/java-problems/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/SMDANAS02/java-problems/tree/main/1512-number-of-good-pairs/) | Easy |
@@ -345,4 +346,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/SMDANAS02/java-problems/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/SMDANAS02/java-problems/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
