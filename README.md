@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3120-count-the-number-of-special-characters-i](https://github.com/SMDANAS02/java-problems/tree/main/3120-count-the-number-of-special-characters-i/) | Easy |
 | [3174-clear-digits](https://github.com/SMDANAS02/java-problems/tree/main/3174-clear-digits/) | Easy |
 | [3271-hash-divided-string](https://github.com/SMDANAS02/java-problems/tree/main/3271-hash-divided-string/) | Medium |
+| [3280-convert-date-to-binary](https://github.com/SMDANAS02/java-problems/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/SMDANAS02/java-problems/tree/main/3517-smallest-palindromic-rearrangement-i/) | Medium |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/SMDANAS02/java-problems/tree/main/3823-reverse-letters-then-special-characters-in-a-string/) | Easy |
 ## Counting
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2652-sum-multiples](https://github.com/SMDANAS02/java-problems/tree/main/2652-sum-multiples/) | Easy |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/SMDANAS02/java-problems/tree/main/2894-divisible-and-non-divisible-sums-difference/) | Easy |
 | [3099-harshad-number](https://github.com/SMDANAS02/java-problems/tree/main/3099-harshad-number/) | Easy |
+| [3280-convert-date-to-binary](https://github.com/SMDANAS02/java-problems/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3895-count-digit-appearances](https://github.com/SMDANAS02/java-problems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/SMDANAS02/java-problems/tree/main/3945-digit-frequency-score/) | Easy |
 ## Number Theory
