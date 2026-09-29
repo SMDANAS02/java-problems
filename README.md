@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/SMDANAS02/java-problems/tree/main/0001-two-sum/) | Easy |
+| [0013-roman-to-integer](https://github.com/SMDANAS02/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SMDANAS02/java-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/SMDANAS02/java-problems/tree/main/0041-first-missing-positive/) | Hard |
 | [0141-linked-list-cycle](https://github.com/SMDANAS02/java-problems/tree/main/0141-linked-list-cycle/) | Easy |
@@ -113,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0006-zigzag-conversion](https://github.com/SMDANAS02/java-problems/tree/main/0006-zigzag-conversion/) | Medium |
+| [0013-roman-to-integer](https://github.com/SMDANAS02/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SMDANAS02/java-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0242-valid-anagram](https://github.com/SMDANAS02/java-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/SMDANAS02/java-problems/tree/main/0383-ransom-note/) | Easy |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/SMDANAS02/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0069-sqrtx](https://github.com/SMDANAS02/java-problems/tree/main/0069-sqrtx/) | Easy |
 | [0070-climbing-stairs](https://github.com/SMDANAS02/java-problems/tree/main/0070-climbing-stairs/) | Easy |
 | [0202-happy-number](https://github.com/SMDANAS02/java-problems/tree/main/0202-happy-number/) | Easy |
