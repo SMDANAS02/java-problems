@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SMDANAS02/java-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2078-two-furthest-houses-with-different-colors](https://github.com/SMDANAS02/java-problems/tree/main/2078-two-furthest-houses-with-different-colors/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SMDANAS02/java-problems/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SMDANAS02/java-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/SMDANAS02/java-problems/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2176-count-equal-and-divisible-pairs-in-an-array](https://github.com/SMDANAS02/java-problems/tree/main/2176-count-equal-and-divisible-pairs-in-an-array/) | Easy |
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/SMDANAS02/java-problems/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/SMDANAS02/java-problems/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/SMDANAS02/java-problems/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [2114-maximum-number-of-words-found-in-sentences](https://github.com/SMDANAS02/java-problems/tree/main/2114-maximum-number-of-words-found-in-sentences/) | Easy |
 | [2315-count-asterisks](https://github.com/SMDANAS02/java-problems/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/SMDANAS02/java-problems/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2418-sort-the-people](https://github.com/SMDANAS02/java-problems/tree/main/2418-sort-the-people/) | Easy |
