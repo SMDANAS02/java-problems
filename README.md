@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3895-count-digit-appearances](https://github.com/SMDANAS02/java-problems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/SMDANAS02/java-problems/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/SMDANAS02/java-problems/tree/main/3925-concatenate-array-with-reverse/) | Easy |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/SMDANAS02/java-problems/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3280-convert-date-to-binary](https://github.com/SMDANAS02/java-problems/tree/main/3280-convert-date-to-binary/) | Easy |
 | [3895-count-digit-appearances](https://github.com/SMDANAS02/java-problems/tree/main/3895-count-digit-appearances/) | Medium |
 | [3945-digit-frequency-score](https://github.com/SMDANAS02/java-problems/tree/main/3945-digit-frequency-score/) | Easy |
+| [3982-sum-of-integers-with-maximum-digit-range](https://github.com/SMDANAS02/java-problems/tree/main/3982-sum-of-integers-with-maximum-digit-range/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
