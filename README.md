@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/SMDANAS02/java-problems/tree/main/0035-search-insert-position/) | Easy |
 | [0041-first-missing-positive](https://github.com/SMDANAS02/java-problems/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/SMDANAS02/java-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/SMDANAS02/java-problems/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/SMDANAS02/java-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SMDANAS02/java-problems/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/SMDANAS02/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SMDANAS02/java-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0041-first-missing-positive](https://github.com/SMDANAS02/java-problems/tree/main/0041-first-missing-positive/) | Hard |
+| [0049-group-anagrams](https://github.com/SMDANAS02/java-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0141-linked-list-cycle](https://github.com/SMDANAS02/java-problems/tree/main/0141-linked-list-cycle/) | Easy |
 | [0202-happy-number](https://github.com/SMDANAS02/java-problems/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/SMDANAS02/java-problems/tree/main/0242-valid-anagram/) | Easy |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/SMDANAS02/java-problems/tree/main/0006-zigzag-conversion/) | Medium |
 | [0013-roman-to-integer](https://github.com/SMDANAS02/java-problems/tree/main/0013-roman-to-integer/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/SMDANAS02/java-problems/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/SMDANAS02/java-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0242-valid-anagram](https://github.com/SMDANAS02/java-problems/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/SMDANAS02/java-problems/tree/main/0383-ransom-note/) | Easy |
 | [0482-license-key-formatting](https://github.com/SMDANAS02/java-problems/tree/main/0482-license-key-formatting/) | Easy |
@@ -161,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0049-group-anagrams](https://github.com/SMDANAS02/java-problems/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/SMDANAS02/java-problems/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/SMDANAS02/java-problems/tree/main/0088-merge-sorted-array/) | Easy |
 | [0242-valid-anagram](https://github.com/SMDANAS02/java-problems/tree/main/0242-valid-anagram/) | Easy |
